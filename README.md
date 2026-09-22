@@ -69,22 +69,20 @@ Full-Stack-Coursework/
 │   ├── module-09-event-listeners/                  # addEventListener patterns & delegation
 │   └── module-10-dom-traversing/                   # Parent, children & sibling navigation
 │
-└── Week-05-practice/
-    ├── Mini Project 1 - calculator/                # Interactive Arithmetic Calculator
-    ├── Mini Project 2 - todo-list/                 # Core Todo List task manager
-    ├── Mini Project 3 - todo-list (dom manupulation)/ # Dynamic DOM-based Todo App
-    ├── Mini Project 4 — Student Grade Calculator/   # Mark calculation & grading system
-    ├── Mini Project 5 — Digital Counter/           # Click counter with state resets
-    ├── Mini Project 6 — Digital Clock/             # Real-time digital clock with setInterval
-    ├── Mini Project 7 — Random Color Generator/    # Hex/RGB background color generator
-    ├── Mini Project 8 — Age Calculator/            # Birthdate calculator with date diff logic
-    ├── Mini Project 9 — Password Generator/        # Configurable secure password generator
-    ├── Mini Project 10 — Quiz App/                 # Multiple choice quiz with scoring logic
-    ├── Mini Project 11 — Tip Calculator/           # Bill splitting & gratuity calculator
-    ├── Mini Project 12 — Expense Tracker/          # Personal budget & expense manager
-    ├── Mini Project 13 — Income & Expense Tracker/ # Dual cashflow tracker with balance sheet
-    ├── Mini Project 14 — Notes App/                # Sticky notes application
-    └── Mini Project 15 — Expense Tracker with Local Storage/ # Persistent expense tracking
+├── Week-05-practice/
+│   ├── Mini Project 1 - calculator/                # Interactive Arithmetic Calculator
+│   ├── Mini Project 2 - todo-list/                 # Core Todo List task manager
+│   ├── Mini Project 3 - todo-list (dom manupulation)/ # Dynamic DOM-based Todo App
+│   ├── Mini Project 4 — Student Grade Calculator/   # Mark calculation & grading system
+│   └── Mini Project 5 — Digital Counter/           # Click counter with state resets
+│
+└── Week-06-practice/
+    ├── Mini Project 6 — Digital Clock/             # Real-time ticking digital clock
+    ├── Mini Project 7 — Random Color Generator/    # Dynamic color picker with background updates
+    ├── Mini Project 8 — Age Calculator/            # Exact date & age computation
+    ├── Mini Project 9 — Password Generator/        # Secure configurable credential generator
+    └── Mini Project 10 — Quiz App/                 # Dynamic quiz engine with instant scoring
+
 ```
 
 ---
