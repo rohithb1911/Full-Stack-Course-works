@@ -13,11 +13,12 @@ Welcome to my central repository for my **Full Stack Web Development** journey! 
 
 | Week | Focus Area | Core Technologies | Highlights / Deliverables |
 | :--- | :--- | :--- | :--- |
-| **[Week 01](#-week-01---html5-foundations--page-layout)** | HTML5 Foundations | HTML5, CSS3 | Semantic structure, Party Invitation web page |
-| **[Week 02](#-week-02---css3-styling-layouts--responsive-design)** | CSS3 Mastery & UI Layouts | CSS3, Flexbox, Grid | 14 styling modules + 3 UI projects (Login, Portfolio, One Piece) |
-| **[Week 03](#-week-03---javascript-core-fundamentals)** | JavaScript Fundamentals | Modern JavaScript (ES6+) | 14 core concept modules, assignments, quiz & interview Q&A |
-| **[Week 04](#-week-04---dom-manipulation--event-handling)** | DOM Manipulation & Events | Vanilla JS, Web APIs | 10 progressive DOM manipulation & event handling modules |
-| **[Week 05](#-week-05---15-interactive-javascript-mini-projects)** | Practical DOM Mini Projects | HTML5, CSS3, JavaScript | 15 complete, interactive web apps & utility tools |
+| **[Week 01](#-week-01---html5-foundations--page-layout)** | HTML5 Foundations | HTML5, CSS3 | Semantic structure and Party Invitation webpage |
+| **[Week 02](#-week-02---css3-styling-layouts--responsive-design)** | CSS3 Mastery & UI Layouts | CSS3, Flexbox, Grid | 14 CSS modules + Login, Portfolio and One Piece projects |
+| **[Week 03](#-week-03---javascript-core-fundamentals)** | JavaScript Fundamentals | JavaScript ES6+ | Core concepts, assignments, quiz and interview Q&A |
+| **[Week 04](#-week-04---dom-manipulation--event-handling)** | DOM Manipulation & Events | Vanilla JavaScript, Web APIs | 10 progressive DOM and event-handling modules |
+| **[Week 05](#-week-05---interactive-javascript-mini-projects)** | JavaScript Mini Projects I | HTML5, CSS3, JavaScript | 5 interactive projects: Calculator, Todo List, Grade Calculator, Counter and more |
+| **[Week 06](#-week-06---interactive-javascript-mini-projects-continued)** | JavaScript Mini Projects II | HTML5, CSS3, JavaScript | 5 interactive projects: Clock, Color Generator, Age Calculator, Password Generator and Quiz App |
 
 ---
 
@@ -51,7 +52,7 @@ Full-Stack-Coursework/
 │       └── portfolio-website/                      # Personal portfolio web layout
 │
 ├── Week-03-practice/
-│   └── JS-fundamentels-learning-module-main/
+│   └── JS-fundamentals-learning-module-main/
 │       ├── assignments/                            # Weekly coding challenges & solutions
 │       ├── examples/                               # 14 JavaScript concept code examples
 │       ├── interview-questions.md                  # JavaScript interview preparation questions
@@ -91,7 +92,7 @@ Full-Stack-Coursework/
 
 ### 📄 Week 01 - HTML5 Foundations & Page Layout
 - **Concepts Learned:** Semantic HTML elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`), typography, layout flow, and image embedding.
-- **Key Deliverable:** [party.html](file:///Week-01-practice/party.html) — A custom invitation webpage designed with structured HTML5 tags and CSS styling.
+- **Key Deliverable:** [party.html](Week-01-practice/party.html) — A custom invitation webpage designed with structured HTML5 tags and CSS styling.
 - **Study Notes:** Detailed tag reference in `Tag.docx`.
 
 ---
@@ -143,8 +144,8 @@ Full-Stack-Coursework/
 
 ---
 
-### 🛠️ Week 05 - 15 Interactive JavaScript Mini Projects
-A collection of 15 fully functional, standalone web applications built with HTML, CSS, and Vanilla JavaScript:
+### 🛠️ Week 05 - Interactive JavaScript Mini Projects
+The first set of standalone web applications built with HTML, CSS, and Vanilla JavaScript:
 
 | # | Project | Description & Core Skills Practiced |
 | :-: | :--- | :--- |
@@ -158,11 +159,6 @@ A collection of 15 fully functional, standalone web applications built with HTML
 | **08** | **Age Calculator** | Exact age calculation in years, months, and days based on user birthdate |
 | **09** | **Password Generator** | Secure password generator with configurable length, symbols, numbers, and case options |
 | **10** | **Quiz App** | Interactive quiz interface with question state management, option checking, and score reporting |
-| **11** | **Tip Calculator** | Bill total, tip percentage calculation, and per-person bill splitting utility |
-| **12** | **Expense Tracker** | Expense logging with dynamic list rendering and cumulative total balance calculation |
-| **13** | **Income & Expense Tracker** | Comprehensive budget tracker balancing income streams against expenditure categories |
-| **14** | **Notes App** | Interactive quick-notes dashboard for adding, viewing, and clearing note cards |
-| **15** | **Expense Tracker (Local Storage)** | Full-featured expense management system with persistent browser `localStorage` storage |
 
 ---
 
@@ -183,19 +179,19 @@ To explore or run any of the practice modules and projects locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shinchan2222/Full-Stack-Coursework.git
+   git clone https://github.com/rohithb1911/Full-Stack-Course-works.git
    ```
 
 2. **Navigate into the project directory:**
    ```bash
-   cd Full-Stack-Coursework
+   cd Full-Stack-Course-works
    ```
 
 3. **Run in Browser:**
    - **For HTML/CSS/DOM projects (Weeks 1, 2, 4, 5):** Simply open any `.html` file directly in your browser, or use the **VS Code Live Server** extension (`Right Click -> Open with Live Server`).
    - **For JavaScript console exercises (Week 3):** Run any script with Node.js:
      ```bash
-     node "Week-03-practice/JS-fundamentels-learning-module-main/examples/01-variables.js"
+     node "Week-03-practice/JS-fundamentals-learning-module-main/examples/01-variables.js"
      ```
 
 ---
