@@ -144,8 +144,8 @@ Full-Stack-Coursework/
 
 ---
 
-### 🛠️ Week 05 - Interactive JavaScript Mini Projects
-The first set of standalone web applications built with HTML, CSS, and Vanilla JavaScript:
+### 🛠️ Week 05 - JavaScript Mini Projects (01 – 05)
+A collection of 5 foundational web applications practicing interactive DOM manipulation, event processing, and state handling:
 
 | # | Project | Description & Core Skills Practiced |
 | :-: | :--- | :--- |
@@ -154,11 +154,20 @@ The first set of standalone web applications built with HTML, CSS, and Vanilla J
 | **03** | **Todo List (DOM Manipulation)** | Advanced DOM element creation, deletion, and event delegation |
 | **04** | **Student Grade Calculator** | Multi-subject input parsing, average calculation, letter grade assignment logic |
 | **05** | **Digital Counter** | Interactive click counter with increment, decrement, and reset operations |
-| **06** | **Digital Clock** | Real-time 12-hour/24-hour clock using JavaScript `Date()` and `setInterval()` |
-| **07** | **Random Color Generator** | Dynamic HEX/RGB color generator applying real-time styles to the background |
-| **08** | **Age Calculator** | Exact age calculation in years, months, and days based on user birthdate |
-| **09** | **Password Generator** | Secure password generator with configurable length, symbols, numbers, and case options |
-| **10** | **Quiz App** | Interactive quiz interface with question state management, option checking, and score reporting |
+
+---
+
+### 🚀 Week 06 - JavaScript Mini Projects (06 – 10)
+A progressive series of 5 interactive web applications exploring timing events, date logic, algorithm design, and quiz state management:
+
+| # | Project | Description & Core Skills Practiced |
+| :-: | :--- | :--- |
+| **06** | **Digital Clock** | Live time tracking via `Date()` API and continuous `setInterval()` cycles |
+| **07** | **Random Color Generator** | Dynamic HEX color code generator with real-time UI background feedback |
+| **08** | **Age Calculator** | Exact age computation across years, months, and days from user input date |
+| **09** | **Password Generator** | Configurable algorithmic password generator with symbols, numbers, and case options |
+| **10** | **Quiz App** | Interactive multiple-choice questionnaire with option validation and final score evaluation |
+
 
 ---
 
