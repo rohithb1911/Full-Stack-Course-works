@@ -1,6 +1,6 @@
 # 🚀 Full Stack Web Development - Coursework
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/rohithb1911/Full-Stack-Coursework?color=blue&style=for-the-badge)](https://github.com/rohithb1911/Full-Stack-Coursework)
+[![GitHub repo size](https://img.shields.io/github/repo-size/rohithb1911/Full-Stack-Course-works?color=blue&style=for-the-badge)](https://github.com/rohithb1911/Full-Stack-Course-works)
 [![Mentored by](https://img.shields.io/badge/Mentored%20by-@Vimal4hckr-blueviolet?style=for-the-badge&logo=github)](https://github.com/Vimal4hckr)
 [![Author](https://img.shields.io/badge/Author-rohithb1911-brightgreen?style=for-the-badge&logo=github)](https://github.com/rohithb1911)
 [![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)](#curriculum-roadmap)
