@@ -1,14 +1,3 @@
-# 🚀 Full Stack Web Development - Coursework
-
-[![GitHub repo size](https://img.shields.io/github/repo-size/rohithb1911/Full-Stack-Course-works?color=blue&style=for-the-badge)](https://github.com/rohithb1911/Full-Stack-Course-works)
-[![Mentored by](https://img.shields.io/badge/Mentored%20by-@Vimal4hckr-blueviolet?style=for-the-badge&logo=github)](https://github.com/Vimal4hckr)
-[![Author](https://img.shields.io/badge/Author-rohithb1911-brightgreen?style=for-the-badge&logo=github)](https://github.com/rohithb1911)
-[![Status](https://img.shields.io/badge/Status-Active%20Learning-orange?style=for-the-badge)](#curriculum-roadmap)
-
-Welcome to my central repository for my **Full Stack Web Development** journey! This repository documents my step-by-step learning progression, hands-on coding exercises, modular practice work, and interactive projects mentored by **[@Vimal4hckr](https://github.com/Vimal4hckr)**.
-
----
-
 # 🚀 Full Stack Web Development - Course Works
 
 [![GitHub](https://img.shields.io/badge/GitHub-Full--Stack--Course--works-181717?style=for-the-badge\&logo=github)](https://github.com/rohithb1911/Full-Stack-Course-works)
@@ -496,9 +485,3 @@ Through these weekly modules and projects, I developed practical experience in:
 * **Developer:** [rohithb1911](https://github.com/rohithb1911)
 * **Repository:** [Full-Stack-Course-works](https://github.com/rohithb1911/Full-Stack-Course-works)
 * **Mentor:** Special thanks to **[@Vimal4hckr](https://github.com/Vimal4hckr)** for continuous mentorship, technical guidance, and curriculum design.
-
----
-
-## ⭐ Support
-
-If you find this repository useful, consider giving it a ⭐ on GitHub!
