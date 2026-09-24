@@ -91,3 +91,420 @@ Full-Stack-Coursework/
     ├── Mini Project 13   Income & Expense Tracker/ # Dual-balance budget management engine
     ├── Mini Project 14   Notes App/                # Dynamic interactive notepad with live creation & deletion
     └── Mini Project 15   Expense Tracker with Local Storage/ # Financial manager with persistent Web Storage
+# 🚀 Full-Stack Course Works
+
+A structured collection of hands-on learning modules, coding exercises, and mini projects covering **HTML5, CSS3, JavaScript, DOM Manipulation, Responsive Design, and Browser Storage**.
+
+---
+
+## 📖 Module Deep Dive
+
+### 📄 Week 01 - HTML5 Foundations & Page Layout
+
+**Concepts Learned:**
+
+* Semantic HTML elements:
+
+  * `<header>`
+  * `<nav>`
+  * `<main>`
+  * `<section>`
+  * `<footer>`
+* Typography
+* Layout flow
+* Image embedding
+
+**Key Deliverable:**
+
+* `party.html` — A custom invitation webpage designed with structured HTML5 tags and CSS styling.
+
+**Study Notes:**
+
+* Detailed tag reference available in `Tag.docx`.
+
+---
+
+### 🎨 Week 02 - CSS3 Styling, Layouts & Responsive Design
+
+**Concepts Learned:**
+
+* CSS syntax
+* CSS hierarchy
+* Selector specificity
+* Pseudo-classes
+* Pseudo-elements
+* Box model dynamics:
+
+  * Margin
+  * Border
+  * Padding
+  * `box-sizing: border-box`
+* Flexbox — 1D layout system
+* CSS Grid — 2D layout system
+* Responsive design using:
+
+  * Media queries
+  * Viewport units
+* CSS animations using `@keyframes`
+* CSS transitions
+* Interactive micro-interactions
+
+**Featured Projects:**
+
+1. **Login Page**
+
+   * Clean authentication form interface
+   * Custom input fields
+   * Focus states
+
+2. **One Piece Theme**
+
+   * Creative fandom showcase website
+   * Image grids
+   * Custom typography
+
+3. **Portfolio Website**
+
+   * Multi-section personal portfolio
+   * Responsive layout structure
+
+---
+
+## ⚡ Week 03 - JavaScript Core Fundamentals
+
+### Concepts Covered
+
+#### 01 - Variables
+
+`01-variables.js`
+
+* `var`
+* `let`
+* `const`
+* Temporal Dead Zone
+* Variable hoisting
+
+#### 02 - Data Types
+
+`02-data-types.js`
+
+* Primitive data types
+* Reference types
+* `typeof`
+* Type coercion
+
+#### 03 - Operators
+
+`03-operators.js`
+
+* Arithmetic operators
+* Comparison operators
+* Logical operators
+* Ternary operator
+* Nullish coalescing
+
+#### 04 - Input & Output
+
+`04-input-output.js`
+
+* Console methods
+* `prompt()`
+* Template literals
+
+#### 05 - Conditionals
+
+`05-conditionals.js`
+
+* `if`
+* `else`
+* `switch`
+* `case`
+* Early returns
+
+#### 06 - Loops
+
+`06-loops.js`
+
+* `for`
+* `while`
+* `do...while`
+* `for...of`
+* `for...in`
+
+#### 07 - Functions
+
+`07-functions.js`
+
+* Function declarations
+* Function expressions
+* Arrow functions
+* Default parameters
+* Rest operators
+
+#### 08 - Arrays
+
+`08-arrays.js`
+
+* Array mutations
+* Indexing
+* Slicing
+* Splicing
+
+#### 09 - Strings
+
+`09-strings.js`
+
+* `slice()`
+* `replace()`
+* `includes()`
+* `split()`
+* `trim()`
+
+#### 10 - Objects
+
+`10-objects.js`
+
+* Object creation
+* Dot notation
+* Bracket notation
+* Destructuring
+* Object methods
+
+#### 11 - Array Methods
+
+`11-array-methods.js`
+
+* `map()`
+* `filter()`
+* `reduce()`
+* `find()`
+* `some()`
+* `every()`
+
+#### 12 - Scope
+
+`12-scope.js`
+
+* Global scope
+* Function scope
+* Block scope
+* Lexical scoping
+* Closures
+
+#### 13 - Error Handling
+
+`13-error-handling.js`
+
+* `try`
+* `catch`
+* `finally`
+* `throw`
+* Custom `Error` types
+
+#### Practice
+
+`practice.js`
+
+* Problem-solving challenges
+* Algorithmic tasks
+
+### 📚 Assessment Material
+
+* `interview-questions.md` — Comprehensive interview preparation
+* `quiz.md` — Theoretical quiz and assessment material
+
+---
+
+# 🌐 Week 04 - DOM Manipulation & Event Handling
+
+### Concepts Covered
+
+Across 10 modules, the following concepts were practiced:
+
+#### DOM Element Selection
+
+* `document.getElementById()`
+* `document.querySelector()`
+* `document.querySelectorAll()`
+
+#### Content Manipulation
+
+* `textContent`
+* `innerHTML`
+
+#### Dynamic Styling
+
+* `element.style`
+* `classList.add()`
+* `classList.remove()`
+* `classList.toggle()`
+* `classList.contains()`
+
+#### HTML Attributes
+
+* `getAttribute()`
+* `setAttribute()`
+* `removeAttribute()`
+* `dataset`
+
+#### DOM Node Management
+
+* `createElement()`
+* `appendChild()`
+* `append()`
+* `remove()`
+
+#### Event Handling
+
+* Event objects
+* Event bubbling
+* Event capturing
+* `stopPropagation()`
+* `preventDefault()`
+
+#### User Input Handling
+
+* Forms
+* `change` events
+* `input` events
+* Form submission
+* Form validation
+
+#### DOM Tree Navigation
+
+* `parentElement`
+* `children`
+* `firstElementChild`
+* `nextElementSibling`
+
+---
+
+# 🛠️ Week 05 - JavaScript Mini Projects I
+
+A collection of 5 foundational web applications focused on interactive DOM manipulation, event processing, and state handling.
+
+| #  | Project                      | Description & Core Skills                                                         |
+| -- | ---------------------------- | --------------------------------------------------------------------------------- |
+| 01 | Calculator                   | Arithmetic calculation logic, button input processing, and dynamic screen updates |
+| 02 | Todo List                    | Task creation, completion toggling, and task deletion                             |
+| 03 | Todo List - DOM Manipulation | Advanced DOM element creation, deletion, and event delegation                     |
+| 04 | Student Grade Calculator     | Multi-subject input parsing, average calculation, and letter grade assignment     |
+| 05 | Digital Counter              | Interactive click counter with increment, decrement, and reset operations         |
+
+---
+
+# 🚀 Week 06 - JavaScript Mini Projects II
+
+A progressive series of 5 interactive web applications exploring timing events, date logic, algorithm design, and quiz state management.
+
+| #  | Project                | Description & Core Skills                                                                   |
+| -- | ---------------------- | ------------------------------------------------------------------------------------------- |
+| 06 | Digital Clock          | Live time tracking using the `Date()` API and continuous `setInterval()` cycles             |
+| 07 | Random Color Generator | Dynamic HEX color code generation with real-time UI background feedback                     |
+| 08 | Age Calculator         | Exact age computation based on years, months, and days                                      |
+| 09 | Password Generator     | Configurable password generation with symbols, numbers, and case options                    |
+| 10 | Quiz App               | Interactive multiple-choice questionnaire with option validation and final score evaluation |
+
+---
+
+# 💼 Week 07 - JavaScript Mini Projects III & Local Storage
+
+A suite of practical web utilities focusing on financial calculations, persistent browser data using `localStorage`, and CRUD workflows.
+
+| #  | Project                            | Description & Core Skills                                                                              |
+| -- | ---------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 11 | Tip Calculator                     | Bill splitting, customizable percentage tips, and per-person cost breakdown                            |
+| 12 | Expense Tracker                    | Dynamic expense logging, category assignment, transaction rendering, and budget balance updates        |
+| 13 | Income & Expense Tracker           | Comprehensive cash-flow ledger supporting credits, debits, balance aggregation, and filtered lists     |
+| 14 | Notes App                          | Digital note-taking system with card creation, live editing, and note deletion                         |
+| 15 | Expense Tracker with Local Storage | Persistent accounting application using `JSON.stringify()`, `JSON.parse()`, and the `localStorage` API |
+
+---
+
+# 💻 Tech Stack & Tools
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* DOM API
+* Responsive Web Design
+
+### JavaScript Concepts
+
+* Variables
+* Data Types
+* Operators
+* Functions
+* Arrays
+* Objects
+* Array Methods
+* Scope
+* Closures
+* Error Handling
+* DOM Manipulation
+* Event Handling
+* Local Storage
+
+### Development Tools
+
+* Visual Studio Code
+* Live Server
+* Node.js
+* Git
+* GitHub
+* Web Browser
+
+---
+
+# ⚡ Getting Started
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/rohithb1911/Full-Stack-Course-works.git
+```
+
+## 2. Navigate into the Project
+
+```bash
+cd Full-Stack-Course-works
+```
+
+## 3. Run HTML/CSS/DOM Projects
+
+For HTML/CSS/DOM projects from **Weeks 1, 2, 4, 5, 6, and 7**, simply open any `.html` file directly in your browser.
+
+Alternatively, use the **Live Server** extension in VS Code:
+
+```text
+Right Click → Open with Live Server
+```
+
+## 4. Run JavaScript Console Exercises
+
+For the JavaScript exercises from **Week 3**, make sure Node.js is installed and run:
+
+```bash
+node "Week-03-practice/JS-fundamentals-learning-module-main/examples/01-variables.js"
+```
+
+You can replace `01-variables.js` with any other JavaScript exercise.
+
+---
+
+# 👨‍💻 Author
+
+**Developer:** rohithb1911
+
+## 🙏 Acknowledgments
+
+Special thanks to **@Vimal4hckr** for continuous mentorship, technical guidance, and curriculum design.
+
+---
+
+## 🔗 Repository
+
+**GitHub:**
+https://github.com/rohithb1911/Full-Stack-Course-works.git
